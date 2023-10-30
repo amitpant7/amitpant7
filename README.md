@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Amit
-- 🌱 I’m self learning ...
-- 💞️ I’m looking to collaborate on anything.
+- 🌱 I’m currently working on Hardware aware Neural architectural search based on FPGA
+
