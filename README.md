@@ -1,11 +1,8 @@
-![image](https://github.com/amitpant7/amitpant7/assets/50907565/b5e350a8-4325-424e-b37f-45f3eec6b317)<h1 align="center">Hi 👋, I'm Amit Pant</h1>
+<h1 align="center">Hi 👋, I'm Amit Pant</h1>
 <h3 align="center">I am passionate about Machine Learning, Data Science, and Wonders of the Universe </h3>
 <img align='right' width = 300  src ='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGgwdnRpNmZ5dGd4bnFvaXVlN3JwaDBoNGxvbGNodGtlbG1rYWJqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif'>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitpant7&label=Profile%20views&color=0e75b6&style=flat" alt="amitpant7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitpant7" alt="amitpant7" /></a> </p>
 
 - 🔭 I’m currently working on **Hardware aware Neural architectural search based on FPGA**
 
@@ -14,6 +11,9 @@
 - 👯 I’m looking to collaborate on **Anything**
 
 - 🤝 I’m looking for help with **implementing neural networks on FPGA**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitpant7" alt="amitpant7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
