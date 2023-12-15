@@ -1,5 +1,5 @@
 ![image](https://github.com/amitpant7/amitpant7/assets/50907565/b5e350a8-4325-424e-b37f-45f3eec6b317)<h1 align="center">Hi 👋, I'm Amit Pant</h1>
-<h3 align="center">I am passionate about Machine Learning, Data Science, and wanders of universe </h3>
+<h3 align="center">I am passionate about Machine Learning, Data Science, and Wonders of the Universe </h3>
 <img align='right' width = 300  src ='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGgwdnRpNmZ5dGd4bnFvaXVlN3JwaDBoNGxvbGNodGtlbG1rYWJqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif'>
 
 
