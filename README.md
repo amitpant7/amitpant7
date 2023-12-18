@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Pant</h1>
 <h3 align="center">I am passionate about Machine Learning, Data Science, and Wonders of the Universe </h3>
-<img align='right' width = 300  src ='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGgwdnRpNmZ5dGd4bnFvaXVlN3JwaDBoNGxvbGNodGtlbG1rYWJqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif'>
+<img align='right' width = 300  src ='https://i.giphy.com/K3htdZ1XuVWVD5DZDZ.webp'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitpant7&label=Profile%20views&color=0e75b6&style=flat" alt="amitpant7" /> </p>
 
