@@ -13,7 +13,7 @@
 - 🤝 I’m looking for help with **implementing neural networks on FPGA**
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitpant7" alt="amitpant7" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
