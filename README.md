@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitpant7&label=Profile%20views&color=0e75b6&style=flat" alt="amitpant7" /> </p>
 
-- 🔭 I’m currently working on **Hardware aware Neural architectural search based on FPGA**
-
 - 🌱 I’m currently learning **Deep learning and NLP**, **React as well as TailwindCSS**
 
 - 👯 I’m looking to collaborate on **Anything**
