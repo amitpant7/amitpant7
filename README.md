@@ -8,9 +8,6 @@
 
 - 👯 I’m looking to collaborate on **Anything**
 
-- 🤝 I’m looking for help with **implementing neural networks on FPGA**
-
-
 
 
 <h3 align="left">Connect with me:</h3>
